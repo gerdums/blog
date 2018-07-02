@@ -25,15 +25,10 @@ author_name: Gareth Matson
 author_bio: Gareth is a Biblical Languages student at the Master's University and a part time freelance web developer.
 author_url: matson.io
 author_location: Santa Clarita, CA
-author_image: "/images/authorimage.png"
 banner_url: https://matson.io
 banner_image: images/banner.jpg
-twitter_username: gareth2016
-facebook_username: gareth.matson.77
-github_username: gerdums
-instagram_username: gareth2016
 paginate: 5
-paginate_path: "/blog/page:num/"
+paginate_path: "/page:num/"
 plugins:
 - jekyll-paginate
 permalink: pretty
