@@ -1,5 +1,5 @@
 ---
-title: BlogInn
+title:
 timezone: EST
 collections:
   posts:
@@ -22,8 +22,7 @@ navigation:
   url: "/tags/"
 disqus: 
 author_name: Gareth Matson
-author_bio: Gareth is a Biblical Languages student at the Master's University and
-  a part time freelance web developer.
+author_bio: Gareth is a Biblical Languages student at the Master's University and a part time freelance web developer.
 author_url: matson.io
 author_location: Santa Clarita, CA
 author_image: "/images/authorimage.png"
