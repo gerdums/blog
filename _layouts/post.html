@@ -36,7 +36,7 @@ layout: default
                     {% endif %}
                 </footer><!-- .entry-footer -->
             </article><!-- .post -->
-            <div class="author-box">
+            <div class="author-box no-print">
                 <div class="author-info">
                     <div class="author-avatar" style="background-image: url({{ site.author_image }})"><span class="screen-reader-text">{{ site.author_name }}'s Picture</span></div>
                     <div class="author-details">
@@ -47,7 +47,7 @@ layout: default
                     </div><!-- .author-details -->
                 </div><!-- .author-info -->
             </div><!-- .author-box -->
-            <nav class="post-navigation">
+            <nav class="post-navigation no-print">
                 <h2 class="screen-reader-text">Post navigation</h2>
                 {% if page.previous.url %}
                 <div class="nav-previous">
