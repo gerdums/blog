@@ -11,16 +11,6 @@ textarea {
     font-family: 'Lato', Calibri, 'Helvetica Neue', Helvetica, Arial, sans-serif;
 }
 
-@media print
-{    
-    .no-print, .no-print *
-    {
-        display: none !important;
-    }
-    .site-main {
-        width: 100%;
-    }
-}
 
 body {
     background-color: $mine-shaft;

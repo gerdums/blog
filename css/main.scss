@@ -42,6 +42,17 @@
     max-width: 1200px;
 }
 
+@media print
+{    
+    .no-print, .no-print *
+    {
+        display: none !important;
+    }
+    .site-main {
+        width: 100% !important;
+    }
+}
+
 .site-main {
     float: left;
     margin-bottom: 30px;
