@@ -1,6 +1,6 @@
 ---
-title: BlogInn
-timezone: UTC
+title: 
+timezone: EST
 collections:
   posts:
     title: Posts
@@ -8,43 +8,30 @@ collections:
   uploads:
     title: Uploads
     output: true
-description: BlogInn is a bold theme for the Jekyll blogging platform. Available for
-  purchase at ThemeForest.net.
-tagline: Thoughts, stories and ideas.
+description:
 baseurl: 
 sass:
   sass_dir: _sass
-url: http://justgoodthemes.com
+url: https://blog.matson.io
 navigation:
 - text: Home
   url: "/"
 - text: About
   url: "/about/"
-- text: Style Guides
-  url: "/style-guide/"
 - text: Archives
   url: "/tags/"
 disqus: 
-author_name: John Doe
-author_bio: John is a designer, photographer, speaker, author of a couple of books
-  about typography and the founder of photo magazine Curious.
-author_url: http://justgoodthemes.com
-author_location: Vilnius, Lithuania
+author_name: Gareth Matson
+author_bio: Gareth is a Biblical Languages student at the Master's University and a part time freelance web developer. 
+author_url: matson.io
+author_location: Santa Clarita, CA
 author_image: "/images/authorimage.png"
-banner_url: http://justgoodthemes.com
+banner_url: https://matson.io
 banner_image: images/banner.jpg
-mailchimp_url: "//justgoodthemes.us3.list-manage.com/subscribe/post?u=78f1bab16028354caeb23aecd&amp;id=4a7330d117"
-twitter_username: username
-facebook_username: username
-googleplus_username: "+username"
-github_username: username
-codepen_username: username
-dribbble_uername: username
-medium_username: "@username"
-instagram_username: username
-pinterest_username: username
-linkedin_username: username
-weibo_username: username
+twitter_username: gareth2016
+facebook_username: gareth.matson.77
+github_username: gerdums
+instagram_username: gareth2016
 paginate: 5
 paginate_path: "/blog/page:num/"
 plugins:
