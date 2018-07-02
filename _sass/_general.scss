@@ -10,7 +10,13 @@ select,
 textarea {
     font-family: 'Lato', Calibri, 'Helvetica Neue', Helvetica, Arial, sans-serif;
 }
+@page  
+{ 
+    size: auto;   /* auto is the initial value */ 
 
+    /* this affects the margin in the printer settings */ 
+    margin: 25mm 25mm 25mm 25mm;  
+} 
 
 body {
     background-color: $mine-shaft;
